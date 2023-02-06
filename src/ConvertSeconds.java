@@ -10,7 +10,7 @@ public class ConvertSeconds {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter total number of seconds : ");
-        int totalNumberSeconds = input.nextInt(); //Declare total numbr of seconds
+        int totalNumberSeconds = input.nextInt(); //Declare total number of seconds
         int hours = totalNumberSeconds / 3600; // Convert seconds in hours
         int r = totalNumberSeconds % 3600; //Declare the remainder of hours
         int minutes = r / 60; // Declare minutes with remainder divide with 60

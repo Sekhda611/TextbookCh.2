@@ -36,7 +36,7 @@ public class GallonsOfPaint {
         System.out.println("Total area of the room to paint : " + countArea + " Sq. ft");
         int gallon = countArea / 350; // count number of gallons
         int r = countArea % 350;
-        double quart = r / (350 *  4.0);
+        double quart = r * 4.0 /  350; // 1 gallon = 4 quarts
         System.out.print("Number of gallons and quarts paint needs to paint room : ");
         System.out.print( gallon + " Gallons "); // output gallons of paint
         System.out.printf("and %.3f Quarts.",quart); // output quarts of paint

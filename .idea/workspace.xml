@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbdaefc3-0474-4b99-b17a-adaf09519ef8" name="Changes" comment="corrected" />
+    <list default="true" id="cbdaefc3-0474-4b99-b17a-adaf09519ef8" name="Changes" comment="corrected">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +44,7 @@
   }
 }</component>
   <component name="RunManager" selected="Application.AreaOfCylinder">
-    <configuration name="AreaOfCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="AreaOfCylinder" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfCylinder" />
       <module name="TextbookCh.2" />
       <method v="2">
@@ -59,7 +67,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaOfCylinder" />
         <item itemvalue="Application.ConvertSeconds" />
         <item itemvalue="Application.GallonsOfPaint" />
       </list>
@@ -102,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675636107160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="corrected">
+      <created>1675636489875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675636489875</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
